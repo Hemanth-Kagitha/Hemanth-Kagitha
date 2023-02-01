@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **Hemanth-Kagitha/Hemanth-Kagitha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -12,4 +11,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... Python
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... World will revolve, but not Around you.
--->
+
